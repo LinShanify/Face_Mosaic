@@ -1,0 +1,4 @@
+cython
+matplotlib
+pycocotools
+face_recognition
